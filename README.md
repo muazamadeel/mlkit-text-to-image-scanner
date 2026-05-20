@@ -89,13 +89,6 @@ The app follows a simple **single-screen stateful widget** architecture:
 Image File → ML Kit TextRecognizer → RecognizedText → Display in UI
 ```
 
-## 📸 Screenshots
-
-The app provides:
-- Image preview area with placeholder
-- Two action buttons (Camera & Gallery)
-- Loading indicator during processing
-- Results panel with copy functionality
 
 ## 🔐 Permissions
 
